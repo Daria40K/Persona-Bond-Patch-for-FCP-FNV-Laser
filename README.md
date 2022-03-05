@@ -1,6 +1,6 @@
 # Persona Bond Patch for FCP FNV Laser Weapons
 
-![](https://github.com/dave40k/Persona-Bond-Patch-for-FCP-FNV-Laser/blob/v1.0/About/Preview.png)
+![](https://github.com/Daria40K/Persona-Bond-Patch-for-FCP-FNV-Laser/blob/v1.0/About/Preview.png)
 
 ## Weapons Patch
 - Laser Pistol
